@@ -1,3 +1,5 @@
+![Jiftoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiftoo&show_icons=true&theme=swift)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on simple personal projects
