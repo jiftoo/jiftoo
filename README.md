@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on simple personal projects
-- 🌸 I’m currently learning [Svelte](https://svelte.dev/) and [Rust](https://www.rust-lang.org/)
-- 👯 I’m looking to collaborate on anything fun!
+- 🔭 I'm currently studying Data Science at HSE University
+- 🌸 I’m [Rust](https://www.rust-lang.org/) and [Svelte](https://svelte.dev/)
+- 👯 I’m available for freelance work, feel free to contact me!
 - 📧Email: contact@jiftoo.dev
