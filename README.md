@@ -4,6 +4,4 @@
 
 - 🔭 I'm currently studying Data Science at HSE University
 - 🌸 I’m comfortable using [Rust](https://www.rust-lang.org/) and [React](https://react.dev/)
-- 🎓 I'm currently interested in learning [Svelte](https://svelte.dev/)
-- 👯 I’m available for freelance work, feel free to contact me!
-- 📧 Email: contact@jiftoo.dev
+- 🎓 I'm currently learning [SolidJS](https://www.solidjs.com/)
